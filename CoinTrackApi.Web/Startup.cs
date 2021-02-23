@@ -11,7 +11,7 @@ namespace CoinTrackApi.Web
 {
     public class Startup
     {
-        private const string ApiDescription = "Coin Track Api";
+        private const string ApiDescription = "CoinTrack Api";
 
         public Startup(IConfiguration configuration)
         {
