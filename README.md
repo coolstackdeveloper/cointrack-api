@@ -2,10 +2,6 @@
 
 Cryptocurrency price tracker. Currently only supports BTC, ETH and XRP.
 
-Try out the API deployed in Heroku at https://stackpond-cointrack-api.herokuapp.com/swagger.
-
-[![Build Status](https://travis-ci.com/stackpond/cointrack-api.svg?token=ZiEpqMrtCtoYozqmY1kh&branch=main)](https://travis-ci.com/stackpond/cointrack-api)
-
 ## Development setup
 
 |Software|Download Link|
